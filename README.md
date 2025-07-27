@@ -1,10 +1,12 @@
 # n8n-nodes-clay
 
-This is an n8n community node. It lets you use [Clay](https://clay.com) in your n8n workflows.
+This is an n8n community node that integrates with the [Clay](https://clay.com) API to bring workbook data into your workflows.
 
-**Clay** is a data enrichment and automation platform that helps teams build intelligent lead generation, outreach, and research workflows by pulling real-time data from hundreds of sources.
+**Clay** is a powerful lead generation and enrichment platform that helps sales teams build highly personalized workflows by combining live data from hundreds of sources.
 
-[n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
+[n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform that lets you connect anything to everything.
+
+---
 
 [Installation](#installation)  
 [Operations](#operations)  
@@ -15,11 +17,10 @@ This is an n8n community node. It lets you use [Clay](https://clay.com) in your 
 
 ---
 
-## Installation
+## 🛠 Installation
 
-Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes/installation/) in the n8n documentation.
-
-If you're self-hosting n8n, you can install this node by running:
+To use this node in your custom n8n instance:
 
 ```bash
 npm install n8n-nodes-clay
+```
