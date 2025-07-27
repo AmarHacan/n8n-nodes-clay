@@ -1,12 +1,21 @@
 {
 "name": "n8n-nodes-clay",
   "version": "0.1.0",
-  "description": "",
-  "keywords": [
-    "n8n-community-node-package"
-  ],
+"description": "Custom n8n node to fetch workbook list from Clay API",
+ "keywords": [
+  "n8n-nodes",
+  "n8n-community-node-package",
+  "clay"
+],
   "license": "MIT",
-  "homepage": "",
+"bugs": {
+  "url": "https://github.com/AmarHacan/n8n-nodes-clay/issues"
+},
+"homepage": "https://github.com/AmarHacan/n8n-nodes-clay#readme",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/AmarHacan/n8n-nodes-clay.git"
+},
   "author": {
     "name": "AmarHacan",
     "email": "ammaarhassan13@gmail.com"
